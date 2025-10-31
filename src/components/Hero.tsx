@@ -2,7 +2,7 @@ import { ArrowDown } from "lucide-react";
 import { Button } from "./ui/button";
 import { Avatar, AvatarImage, AvatarFallback } from "./ui/avatar";
 import heroBg from "@/assets/hero-bg.jpg";
-import profileImg from "@/assets/profile.jpg";
+import profileImg from "blob:https://web.whatsapp.com/c4a56278-2a0e-420f-a5d8-bcd3dc7fd0a0";
 
 const Hero = () => {
   const scrollToContact = () => {
